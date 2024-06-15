@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: TouchUI
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"name":{"$content":"MoveLeft","$type":"System.String"}},"position":{"x":-283.0,"y":-121.0},"guid":"06c57a7f-c471-40c7-b476-4e2151afb201","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent"},{"coroutine":false,"defaultValues":{"name":{"$content":"MoveRight","$type":"System.String"}},"position":{"x":-285.0,"y":31.0},"guid":"dc966f81-7ecd-4478-8e88-1289b3d418f4","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent"},{"coroutine":false,"defaultValues":{"name":{"$content":"Jump","$type":"System.String"}},"position":{"x":-106.0,"y":31.0},"guid":"3f1ea515-ef7b-4dba-a2f7-f83d325f72ac","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent"}],"$version":"A"}}'
+    _objectReferences: []
